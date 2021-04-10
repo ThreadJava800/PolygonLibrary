@@ -1,0 +1,6 @@
+D:\Projects\WindowsForms\Library\PolygonLibrary\PolygonLibrary\bin\Debug\PolygonLibrary.dll
+D:\Projects\WindowsForms\Library\PolygonLibrary\PolygonLibrary\bin\Debug\PolygonLibrary.pdb
+D:\Projects\WindowsForms\Library\PolygonLibrary\PolygonLibrary\obj\Debug\PolygonLibrary.csprojAssemblyReference.cache
+D:\Projects\WindowsForms\Library\PolygonLibrary\PolygonLibrary\obj\Debug\PolygonLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\WindowsForms\Library\PolygonLibrary\PolygonLibrary\obj\Debug\PolygonLibrary.dll
+D:\Projects\WindowsForms\Library\PolygonLibrary\PolygonLibrary\obj\Debug\PolygonLibrary.pdb
